@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/nft-card-component)
-- Live Site URL: [NFT Card Component](https://your-live-site-url.com)
+- Live Site URL: [NFT Card Component](https://nft-card-component-snowy.vercel.app/)
 
 ## My process
 
